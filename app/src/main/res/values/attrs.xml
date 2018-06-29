@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="icon" format="reference"/>
+    <attr name="color" format="color"/>
+    <attr name="text" format="string"/>
+    <attr name="text_size" format="dimension"/>
+
+    <declare-styleable name="ChangeColorIconWithText">
+        <attr name="icon"/>
+        <attr name="color"/>
+        <attr name="text"/>
+        <attr name="text_size"/>
+    </declare-styleable>
+
+    <attr name="ggk_text" format="string"/>
+    <attr name="ggk_textColor" format="color"/>
+    <attr name="ggk_textSize" format="dimension"/>
+    <declare-styleable name="GuaGuaKa">
+        <attr name="ggk_text"/>
+        <attr name="ggk_textColor"/>
+        <attr name="ggk_textSize"/>
+    </declare-styleable>
+
+</resources>

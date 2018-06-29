@@ -1,0 +1,15 @@
+刮刮卡原理
+    Paint.setXferMode();
+   1.圆角图片以及圆形图片的实现
+        a.绘制矩形（正方形）图片
+        b.setXferMode(DstIn)
+        c.绘制我们的圆形
+   2.-------------------
+           a.绘制圆形
+           b.setXferMode(DstIn)
+           c.绘制我们的矩形（正方形）图片
+
+Canvas Paint Path Bitmap
+mPaint.setXferMode()
+自定义属性
+bitmap.getPixels()
